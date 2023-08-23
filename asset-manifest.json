@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Character-Search-App/static/css/main.e2d39177.css",
+    "main.js": "/Character-Search-App/static/js/main.a7145fa5.js",
+    "static/js/787.815436e7.chunk.js": "/Character-Search-App/static/js/787.815436e7.chunk.js",
+    "index.html": "/Character-Search-App/index.html",
+    "main.e2d39177.css.map": "/Character-Search-App/static/css/main.e2d39177.css.map",
+    "main.a7145fa5.js.map": "/Character-Search-App/static/js/main.a7145fa5.js.map",
+    "787.815436e7.chunk.js.map": "/Character-Search-App/static/js/787.815436e7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2d39177.css",
+    "static/js/main.a7145fa5.js"
+  ]
+}
