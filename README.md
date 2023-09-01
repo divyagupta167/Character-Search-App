@@ -1,3 +1,9 @@
+
+
+
+![work1](https://github.com/divyagupta167/Character-Search-App/assets/54738711/f82fbbfa-a9d6-4879-a621-6459798b1911)
+
+
 #Introduction
 
 The React Rick and Morty Character Search App is a web application built with React that allows users to search for characters from the popular TV show "Rick and Morty." The app leverages the Rick and Morty API to fetch character data and presents it in a user-friendly interface.
